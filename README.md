@@ -1,4 +1,4 @@
-# Getting and Cleaning Data assignment #  
+# Getting and Cleaning Data assignment #
 Smartphone data assignment for the Coursera course "Getting and Cleaning data"
 
 ## Input and output ##
